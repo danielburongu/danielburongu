@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
+![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
 <h1 align="center"><i>Hi 👋, I'm daniel</i></h1>
 <h3 align="center"><i>An aspiring entry level developer</i></h3>
