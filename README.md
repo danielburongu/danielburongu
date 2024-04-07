@@ -1,4 +1,4 @@
-![MasterHead](https://images.pexels.com/photos/7132624/pexels-photo-7132624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![MasterHead](https://images.pexels.com/photos/5749073/pexels-photo-5749073.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <h1 align="center"><i>Hi 👋, I'm daniel</i></h1>
 <h3 align="center"><i>Happy You are Here</i></h3>
@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danielburongu&label=Profile%20views&color=0e75b6&style=flat" alt="danielburongu" /> </p>
 
-<p align="center"> <a href="https://twitter.com/@d_burongu" target="blank"><img src="https://img.shields.io/twitter/follow/@d_burongu?logo=twitter&style=for-the-badge" alt="@d_burongu" /></a> </p>
+
 
 - 🌱 I’m currently learning **Advanced Front-End Development**
 
