@@ -1,4 +1,4 @@
-![MasterHead](https://leverageedu.com/blog/wp-content/uploads/2021/06/Why-Everyone-Should-Learn-to-Code.png)
+![MasterHead](https://fossbytes.com/wp-content/uploads/2019/11/Learn-to-code-for-free_best-free-coding-websites.jpg)
 
 <h1 align="center"><i>Hi 👋, I'm daniel</i></h1>
 <h3 align="center"><i>Happy You are Here</i></h3>
