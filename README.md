@@ -1,4 +1,4 @@
-![MasterHead](https://images.pexels.com/photos/5749073/pexels-photo-5749073.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![MasterHead](https://leverageedu.com/blog/wp-content/uploads/2021/06/Why-Everyone-Should-Learn-to-Code.png)
 
 <h1 align="center"><i>Hi 👋, I'm daniel</i></h1>
 <h3 align="center"><i>Happy You are Here</i></h3>
