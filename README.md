@@ -1,4 +1,4 @@
-![MasterHead](https://fossbytes.com/wp-content/uploads/2019/11/Learn-to-code-for-free_best-free-coding-websites.jpg)
+![MasterHead](https://media.gettyimages.com/id/924551844/photo/a-man-uses-a-smartphone-on-the-first-day-of-the-mobile-world-congress-on-february-26-2018-in.jpg?s=612x612&w=0&k=20&c=i3cuLBwKHiNC-HdFEZo-ZDkBQAeeelXfln9h2EkX2W4=)
 
 <h1 align="center"><i>Hi 👋, It's daniel</i></h1>
 <h3 align="center"><i>Happy You are Here, I'm learning full-stack web development with passion for building my version of the digital world. All coding projects are built ,to solve real-life problems and I welcome your input and advice. as my objective is to create social impact wherever my ability can.</i></h3>
