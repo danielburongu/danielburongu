@@ -1,7 +1,7 @@
 ![MasterHead](https://fossbytes.com/wp-content/uploads/2019/11/Learn-to-code-for-free_best-free-coding-websites.jpg)
 
-<h1 align="center"><i>Hi 👋, I'm daniel</i></h1>
-<h3 align="center"><i>Happy You are Here</i></h3>
+<h1 align="center"><i>Hi 👋, It's daniel</i></h1>
+<h3 align="center"><i>Happy You are Here, I'm learning full-stack web development with passion for building my version of the digital world. All coding projects are built ,to solve real-life problems and I welcome your input and advice. as my objective is to create social impact wherever my ability can.</i></h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danielburongu&label=Profile%20views&color=0e75b6&style=flat" alt="danielburongu" /> </p>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **d.burongu@alustudent.com**
 
-- ⚡ Fun fact **I'm Human**
+- ⚡ Fun fact **I'm Human let's learn together**
 
 
 
