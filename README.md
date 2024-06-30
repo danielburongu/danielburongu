@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Advanced Front-End Development**
+- 🌱 I’m currently learning **Advanced_Back_End_Development**
 
 - 📫 How to reach me **d.burongu@alustudent.com**
 
