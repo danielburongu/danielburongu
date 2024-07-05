@@ -10,7 +10,6 @@
 
 - 🌱 I’m currently learning **Advanced_Back_End_Development**
 
-- 📫 How to reach me **d.burongu@alustudent.com**
 
 - ⚡ Fun fact **I'm Human let's learn together**
 
