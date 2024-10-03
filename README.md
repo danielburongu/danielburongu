@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Advanced_Back_End_Development**
+- 🌱 I’m currently learning **Tyscript and React dev**
 
 
 - ⚡ Fun fact **I'm Human let's learn together**
