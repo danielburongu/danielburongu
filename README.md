@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Tyscript and React dev**
+- 🌱 I’m currently learning **DevOps**
 
 
 - ⚡ Fun fact **I'm Human let's learn together**
