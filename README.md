@@ -1,17 +1,14 @@
-![MasterHead](https://media.gettyimages.com/id/924551844/photo/a-man-uses-a-smartphone-on-the-first-day-of-the-mobile-world-congress-on-february-26-2018-in.jpg?s=612x612&w=0&k=20&c=i3cuLBwKHiNC-HdFEZo-ZDkBQAeeelXfln9h2EkX2W4=)
+![MasterHead](https://www.ntc.edu/sites/default/files/styles/full_width_16_9/public/2021-06/software-development-specialist.jpg?itok=D8qgVwxb)
 
 <h1 align="center"><i>Hi 👋, It's daniel</i></h1>
-<h3 align="center"><i>Happy You are Here, I'm learning full-stack web development.</i></h3>
+<h3 align="center"><i>Happy You are Here, full-stack web development.</i></h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danielburongu&label=Profile%20views&color=0e75b6&style=flat" alt="danielburongu" /> </p>
 
 
 
-- 🌱 I’m currently learning **DevOps**
-
-
-- ⚡ Fun fact **I'm Human let's learn together**
+- ⚡ let's learn
 
 
 
